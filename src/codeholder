@@ -1,0 +1,18 @@
+//   index % 4 === 0 && index !== 0 ? (
+          //     React.createElement(
+          //       "tr",
+          //       { key: value.id },
+          //       <CardContent
+          //         key={index}
+          //         cardInfo={value}
+          //         index={index}
+          //       ></CardContent>
+          //     )
+          //   ) : (
+          //     <CardContent
+          //       key={index}
+          //       cardInfo={value}
+          //       index={index}
+          //     ></CardContent>
+          //   )
+          // )}
